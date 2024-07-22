@@ -11,7 +11,7 @@ http://localhost/textpattern/textpattern/index.php?event=file&step=file_insert<b
 4. To trigger the XSS, visit https://<url>/textpattern/files/SVG-XSS.svg.<br>
    ![alt text](https://github.com/patrickdeanramos/TextPattern-CMS-4.9.0-dev-SVG-Stored-Cross-Site-Scripting-Authenticated-/blob/main/SVG-XSS.png?raw=True)
 
-<B>Authors:</B>
+<B>Authors:</B><br>
 Patrick Dean Ramos<br>
 Nathu Nandwani<br>
 Junnair Manla<br>
