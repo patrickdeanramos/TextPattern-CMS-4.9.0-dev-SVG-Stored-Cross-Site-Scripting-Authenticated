@@ -9,6 +9,7 @@ http://localhost/textpattern/textpattern/index.php?event=file&step=file_insert<b
 2. Navigate to 'Content > File'.<br>
 3. Upload the SVG file containing the malicious XSS code.<br>
 4. To trigger the XSS, visit https://<url>/textpattern/files/SVG-XSS.svg.<br>
+   ![alt text](https://github.com/patrickdeanramos/TextPattern-CMS-4.9.0-dev-SVG-Stored-Cross-Site-Scripting-Authenticated-/blob/main/SVG-XSS.png?raw=True)
 
 <B>Authors:</B>
 Patrick Dean Ramos<br>
